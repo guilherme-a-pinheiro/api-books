@@ -1,0 +1,107 @@
+[
+{
+"Name": "1984",
+"PublisherTime": "1949-06-08",
+"Author": "George Orwell",
+"Description": "A dystopian social science fiction novel and cautionary tale.",
+"Price": 9.99
+},
+{
+"Name": "To Kill a Mockingbird",
+"PublisherTime": "1960-07-11",
+"Author": "Harper Lee",
+"Description": "A novel about the serious issues of rape and racial inequality.",
+"Price": 7.99
+},
+{
+"Name": "The Great Gatsby",
+"PublisherTime": "1925-04-10",
+"Author": "F. Scott Fitzgerald",
+"Description": "A novel about the American dream and the roaring twenties.",
+"Price": 10.99
+},
+{
+"Name": "One Hundred Years of Solitude",
+"PublisherTime": "1967-06-05",
+"Author": "Gabriel Garcia Marquez",
+"Description": "A multi-generational story of the Buendia family.",
+"Price": 12.99
+},
+{
+"Name": "Moby-Dick",
+"PublisherTime": "1851-10-18",
+"Author": "Herman Melville",
+"Description": "A novel about the voyage of the whaling ship Pequod.",
+"Price": 8.99
+},
+{
+"Name": "Pride and Prejudice",
+"PublisherTime": "1813-01-28",
+"Author": "Jane Austen",
+"Description": "A romantic novel that critiques the British landed gentry at the end of the 18th century.",
+"Price": 6.99
+},
+{
+"Name": "War and Peace",
+"PublisherTime": "1869-01-01",
+"Author": "Leo Tolstoy",
+"Description": "A novel that chronicles the history of the French invasion of Russia.",
+"Price": 14.99
+},
+{
+"Name": "The Catcher in the Rye",
+"PublisherTime": "1951-07-16",
+"Author": "J.D. Salinger",
+"Description": "A story about the events and conversations of a teenage boy.",
+"Price": 9.49
+},
+{
+"Name": "The Hobbit",
+"PublisherTime": "1937-09-21",
+"Author": "J.R.R. Tolkien",
+"Description": "A children's fantasy novel about the adventures of Bilbo Baggins.",
+"Price": 8.49
+},
+{
+"Name": "Crime and Punishment",
+"PublisherTime": "1866-01-01",
+"Author": "Fyodor Dostoevsky",
+"Description": "A novel about the mental anguish and moral dilemmas of an impoverished ex-student.",
+"Price": 11.99
+},
+{
+"Name": "The Odyssey",
+"PublisherTime": "8th century BC",
+"Author": "Homer",
+"Description": "An epic poem about the journey of Odysseus.",
+"Price": 13.99
+},
+{
+"Name": "Brave New World",
+"PublisherTime": "1932-01-01",
+"Author": "Aldous Huxley",
+"Description": "A dystopian novel about a future World State.",
+"Price": 9.99
+},
+{
+"Name": "Jane Eyre",
+"PublisherTime": "1847-10-16",
+"Author": "Charlotte Brontë",
+"Description": "A novel that follows the emotions and experiences of its heroine.",
+"Price": 7.49
+},
+{
+"Name": "Wuthering Heights",
+"PublisherTime": "1847-12-01",
+"Author": "Emily Brontë",
+"Description": "A novel about the intense, and almost demonic love between Catherine Earnshaw and Heathcliff.",
+"Price": 8.99
+},
+{
+"Name": "The Divine Comedy",
+"PublisherTime": "1320-01-01",
+"Author": "Dante Alighieri",
+"Description": "An epic poem about the journey through Hell, Purgatory, and Paradise.",
+"Price": 15.99
+}
+]
