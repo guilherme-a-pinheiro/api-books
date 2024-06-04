@@ -3,6 +3,7 @@ package com.pinheiro.Books.services;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.pinheiro.Books.domain.Book;
+import com.pinheiro.Books.dtos.BookRequestDTO;
 import com.pinheiro.Books.repositories.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
@@ -32,5 +33,15 @@ public class BookService {
 
     public List<Book> findAll() {
         return repository.findAll();
+    }
+
+    public void createBook(BookRequestDTO dto){
+        Book newBook = new Book();
+        newBook.setName(dto.name());
+        newBook.setPublishedTime(dto.publishedTime());
+        newBook.setAuthor(dto.author());
+        newBook.setDescription(dto.description());
+        newBook.setPrice(dto.price());
+        repository.save(newBook);
     }
 }
